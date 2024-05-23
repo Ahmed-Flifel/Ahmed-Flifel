@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Flifel
 - 👀 I’m interested in prompt engineering
-- 🌱 I’m currently learning cs50
+- 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me via E-mail flifel_ahmed@yahoo.com
 - 😄 Pronouns: ...
